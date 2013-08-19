@@ -1,0 +1,9 @@
+C:\Users\Evan\Desktop\SaltyBot\trunk\SaltyBot\SaltyBot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Evan\Desktop\SaltyBot\trunk\SaltyBot\SaltyBot\bin\Debug\SaltyBot.exe.config
+C:\Users\Evan\Desktop\SaltyBot\trunk\SaltyBot\SaltyBot\bin\Debug\SaltyBot.exe
+C:\Users\Evan\Desktop\SaltyBot\trunk\SaltyBot\SaltyBot\bin\Debug\SaltyBot.pdb
+C:\Users\Evan\Desktop\SaltyBot\trunk\SaltyBot\SaltyBot\bin\Debug\WatiN.Core.dll
+C:\Users\Evan\Desktop\SaltyBot\trunk\SaltyBot\SaltyBot\bin\Debug\WatiN.Core.xml
+C:\Users\Evan\Desktop\SaltyBot\trunk\SaltyBot\SaltyBot\obj\x86\Debug\SaltyBot.exe
+C:\Users\Evan\Desktop\SaltyBot\trunk\SaltyBot\SaltyBot\obj\x86\Debug\SaltyBot.pdb
+C:\Users\Evan\Desktop\SaltyBot\trunk\SaltyBot\SaltyBot\bin\Debug\Interop.SHDocVw.dll
